@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(01_buildingblocks)
 add_subdirectory(02_Arrays)
+add_subdirectory(03_Vectors)
